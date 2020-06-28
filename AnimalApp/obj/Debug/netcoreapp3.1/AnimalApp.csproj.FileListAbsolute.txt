@@ -1,0 +1,13 @@
+C:\Users\sl_cl\source\repos\AnimalApp\AnimalApp\bin\Debug\netcoreapp3.1\AnimalApp.exe
+C:\Users\sl_cl\source\repos\AnimalApp\AnimalApp\bin\Debug\netcoreapp3.1\AnimalApp.deps.json
+C:\Users\sl_cl\source\repos\AnimalApp\AnimalApp\bin\Debug\netcoreapp3.1\AnimalApp.runtimeconfig.json
+C:\Users\sl_cl\source\repos\AnimalApp\AnimalApp\bin\Debug\netcoreapp3.1\AnimalApp.runtimeconfig.dev.json
+C:\Users\sl_cl\source\repos\AnimalApp\AnimalApp\bin\Debug\netcoreapp3.1\AnimalApp.dll
+C:\Users\sl_cl\source\repos\AnimalApp\AnimalApp\bin\Debug\netcoreapp3.1\AnimalApp.pdb
+C:\Users\sl_cl\source\repos\AnimalApp\AnimalApp\obj\Debug\netcoreapp3.1\AnimalApp.csprojAssemblyReference.cache
+C:\Users\sl_cl\source\repos\AnimalApp\AnimalApp\obj\Debug\netcoreapp3.1\AnimalApp.AssemblyInfoInputs.cache
+C:\Users\sl_cl\source\repos\AnimalApp\AnimalApp\obj\Debug\netcoreapp3.1\AnimalApp.AssemblyInfo.cs
+C:\Users\sl_cl\source\repos\AnimalApp\AnimalApp\obj\Debug\netcoreapp3.1\AnimalApp.csproj.CoreCompileInputs.cache
+C:\Users\sl_cl\source\repos\AnimalApp\AnimalApp\obj\Debug\netcoreapp3.1\AnimalApp.dll
+C:\Users\sl_cl\source\repos\AnimalApp\AnimalApp\obj\Debug\netcoreapp3.1\AnimalApp.pdb
+C:\Users\sl_cl\source\repos\AnimalApp\AnimalApp\obj\Debug\netcoreapp3.1\AnimalApp.genruntimeconfig.cache
