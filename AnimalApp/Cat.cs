@@ -1,10 +1,24 @@
-﻿namespace AnimalApp
+﻿using System;
+
+namespace AnimalApp
 {
-    public class Cat : Mammal
+    public class Cat : IMammal
     {
-        public Cat(string name = "The cat with no name")
+        public Cat(string name)
         {
-            this.name = name;
+            Name = name;
+        }
+
+        public string Name { get; set; }
+
+        public void Eat()
+        {
+            Console.WriteLine(Name + " is eating Whiskas");
+        }
+
+        public void Walk()
+        {
+            Console.WriteLine(Name + " walking on four legs");
         }
     }
 }

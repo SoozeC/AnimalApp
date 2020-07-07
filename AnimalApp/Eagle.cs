@@ -1,10 +1,24 @@
-﻿namespace AnimalApp
+﻿using System;
+
+namespace AnimalApp
 {
-    public class Eagle : Bird
+    public class Eagle : IBird
     {
-        public Eagle(string name = "The eagle no-one cares about")
+        public Eagle(string name)
         {
-            this.name = name;
+            Name = name;
+        }
+
+        public string Name { get; set; }
+
+        public void Eat()
+        {
+            Console.WriteLine(Name + " is savaging a pigeon");
+        }
+
+        public void Fly()
+        {
+            Console.WriteLine(Name + "is soaring");
         }
     }
 }
